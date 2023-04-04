@@ -1,0 +1,5 @@
+opencv
+torchvision 0.2.1
+cuda 10.0
+pyqt 5.12.3
+gradio
